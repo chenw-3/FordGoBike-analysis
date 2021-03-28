@@ -1,5 +1,4 @@
 # Ford GO Bike Analysis
-## by Chennel Williams
 
 
 ## Ford GO Bike Share Service
